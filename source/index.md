@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: GDC
 
 language_tabs:
   - php
